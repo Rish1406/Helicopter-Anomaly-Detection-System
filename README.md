@@ -66,25 +66,4 @@ The **Helicopter Anomaly Detection System (HADS)** overcomes these drawbacks wit
 
 ---
 
-## 🧰 Installation & Setup  
-
-### Prerequisites  
-- Python 3.8 or later  
-- pip (Python package manager)  
-- Git  
-
-### Steps  
-```bash
-# 1. Clone the repository
-git clone https://github.com/Rish1406/Helicopter-Anomaly-Detection-System.git
-
-# 2. Navigate to the project directory
-cd Helicopter-Anomaly-Detection-System
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the main application
-python main.py
-
 
